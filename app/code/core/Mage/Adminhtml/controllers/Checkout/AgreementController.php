@@ -51,11 +51,10 @@ class Mage_Adminhtml_Checkout_AgreementController extends Mage_Adminhtml_Control
     {
         $this->_forward('edit');
     }
-	public function vinod()    
+	public function tapan()
     {
         $this->_forward('edit');
     }
-	
     public function editAction()
     {
         $this->_title($this->__('Sales'))->_title($this->__('Terms and Conditions'));
