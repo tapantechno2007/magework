@@ -61,7 +61,6 @@ Varien_Autoload::register();
 final class Mage
 {
     /**
-	Tapan is bad 
      * Registry collection
      *
      * @var array
