@@ -60,7 +60,7 @@ Varien_Autoload::register();
  */
 final class Mage
 {
-    /**
+    /**tapan
      * Registry collection
      *
      * @var array
