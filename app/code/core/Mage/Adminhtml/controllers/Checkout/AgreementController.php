@@ -42,7 +42,7 @@ class Mage_Adminhtml_Checkout_AgreementController extends Mage_Adminhtml_Control
             ->renderLayout();
         return $this;
     }
-
+  
     public function newAction()
     {
         $this->_forward('edit');
