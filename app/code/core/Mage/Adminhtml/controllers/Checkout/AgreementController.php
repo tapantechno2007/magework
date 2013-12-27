@@ -51,7 +51,7 @@ class Mage_Adminhtml_Checkout_AgreementController extends Mage_Adminhtml_Control
     {
         $this->_forward('edit');
     }
-	public function vinod()
+	public function vinod() 
     {
         $this->_forward('edit');
     }
